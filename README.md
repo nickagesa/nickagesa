@@ -1,5 +1,6 @@
-# Hello, I'm Nick
+# Hello, I'm Nick Agesa
 <a href="https://linkedin.com/in/nickson-adamson-93512b122"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@nickagesa"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
 
 I am a cybersecurity professional with a strong foundation in secure IT operations, audit compliance, and hands-on technical skills, including phishing simulations, SIEM monitoring, and malware analysis. 
 
@@ -21,7 +22,6 @@ I have a  passion for protecting digital environments, and I am now eager to tra
 
 ## Tools
 
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -37,20 +37,16 @@ I have a  passion for protecting digital environments, and I am now eager to tra
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-326CE5?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    
 </div>
 
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
 
 ## Projects
 - Detection Lab
