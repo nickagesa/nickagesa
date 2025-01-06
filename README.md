@@ -2,11 +2,11 @@
 <a href="https://linkedin.com/in/nickson-adamson-93512b122"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@nickagesa"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
 
-I am a cybersecurity professional with a strong foundation in secure IT operations, audit compliance, and hands-on technical skills, including phishing simulations, SIEM monitoring, and malware analysis. 
+I am a cybersecurity professional driven by a passion for understanding and safeguarding computer networks, I bring a versatile skill set spanning network design, system administration, cybersecurity operations, and hands-on malware analysis. 
 
 ## Objective
 
-I have a  passion for protecting digital environments, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I aim to utilize my skills in network security, threat monitoring, and SOC automation to contribute effectively as a Tier 1 Analyst in a Security Operations Center (SOC).
 
 ## Skills
 
