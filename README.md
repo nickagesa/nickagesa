@@ -15,10 +15,10 @@ I aim to utilize my skills in network security, threat monitoring, and SOC autom
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/nickagesa/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
 
 ## Tools
 
@@ -50,4 +50,4 @@ I aim to utilize my skills in network security, threat monitoring, and SOC autom
 
 ## Projects
 - <a href="https://github.com/nickagesa/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project</a>
