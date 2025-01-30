@@ -51,6 +51,6 @@ I aim to utilize my skills in network security, threat monitoring, and SOC autom
 
 
 ## Projects
-- <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Project</a>|
+- <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Project</a>
 - <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project</a>
 - <a href= "https://github.com/nickagesa/Network-Engineering-Lab/blob/main/README.md"> Network Engineering Project </a>
