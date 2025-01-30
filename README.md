@@ -14,12 +14,13 @@ I aim to utilize my skills in network security, threat monitoring, and SOC autom
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Engineering                           | <a href= "https://github.com/nickagesa/Network-Engineering-Lab/blob/main/README.md"> Network Engineering Lab </a>
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/nickagesa/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| System Administrator                           | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
 
 ## Tools
 
@@ -50,5 +51,6 @@ I aim to utilize my skills in network security, threat monitoring, and SOC autom
 
 
 ## Projects
-- <a href="https://github.com/nickagesa/Detection-Lab/tree/main">Detection Lab</a>
+- <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Project</a>|
 - <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project</a>
+- <a href= "https://github.com/nickagesa/Network-Engineering-Lab/blob/main/README.md"> Network Engineering Project </a>
