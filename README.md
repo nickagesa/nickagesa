@@ -13,6 +13,7 @@ I aim to utilize my skills in network security, threat monitoring, and SOC autom
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Network Engineering                           | <a href= "https://github.com/nickagesa/Network-Engineering-Lab/blob/main/README.md"> Network Engineering Lab </a>
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/nickagesa/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
