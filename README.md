@@ -5,21 +5,30 @@
   <a href="https://github.com/nickagesa/nickagesa/blob/main/README.md" style="text-decoration: none; color: #2ca02c;">Educator</a>
 </h2>
 
-| Skill                                         | Associated Projects |
-|-----------------------------------------------|----------------------------|
-| 🐍 **Python Programming**                     |  |
-| &emsp; 🎮 Games                               | [Game Dev Project](#) |
-| &emsp; 🔒 Cybersecurity                       | [CyberSec Scripts](#) |
-| &emsp; 🤖 Automation                          | [Automation Scripts](#) |
-| &emsp; 🧠 AI                                  | [AI Projects](#) |
-| 👨‍💻 **Network Engineering**                | <a href= "https://github.com/nickagesa/Network-Engineering-Lab/blob/main/README.md"> Network Engineering Lab </a> |
-| 🧾 **SIEM Implementation and Log Analysis**   | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a> |
-| 🔎 **Network Traffic Monitoring and Attack Detection** | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a> |
-| 🛠️ **Security Automation with Shuffle SOAR**  | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a> |
-| 🚨 **Incident Response Planning and Execution** | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a> |
-| 📝 **Case Management with TheHive**           | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a> |
-| ⚙️ **Scripting and Automation for Threat Mitigation** | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a> |
-| 🔓 **System Administrator**                   | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a> |
+<table>
+  <tr>
+    <th>Skill</th>
+    <th>Associated Project</th>
+  </tr>
+  <tr>
+    <td rowspan="4"><b>Python Programming</b></td>
+    <td>Games</td>
+  </tr>
+  <tr>
+    <td>Cybersecurity</td>
+  </tr>
+  <tr>
+    <td>AI</td>
+  </tr>
+  <tr>
+    <td>Automation</td>
+  </tr>
+  <tr>
+    <td><b>Network Engineering</b></td>
+    <td><a href="https://github.com/nickagesa/Network-Engineering-Lab">Network Engineering Lab</a></td>
+  </tr>
+</table>
+
 
 
 ## Tools
