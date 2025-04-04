@@ -1,6 +1,6 @@
 # Hi, I'm Nick Agesa!
-<b><span style="color:#ff5733;">Cybersecurity nerd on a mission — hunting threats, breaking stuff (ethically), and making tech make sense for everyone.<span></b> 
-<a href="https://www.linkedin.com/in/nickson-adamson-93512b122/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+**Cybersecurity nerd on a mission — hunting threats, breaking stuff (ethically), and making tech make sense for everyone.**
+<a href="https://www.linkedin.com/in/nickson-adamson-93512b122/">Educator</a>
 ## Skills
 
 | Skill                                         | Associated Project         |
