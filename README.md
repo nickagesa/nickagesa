@@ -1,9 +1,9 @@
 # Hi,👋🏽 I'm Nick Agesa!
-<b>
+<h1>
   <a href="https://www.linkedin.com/in/nickson-adamson-93512b122/" style="text-decoration: none; color: #ff5733;">Cybersecurity Specialist</a> ,
   <a href="https://github.com/nickagesa/nickagesa/blob/main/README.md" style="text-decoration: none; color: #1f77b4;">Threat Hunter</a> , 
   <a href="https://github.com/nickagesa/nickagesa/blob/main/README.md" style="text-decoration: none; color: #2ca02c;">Educator</a>
-</b>
+</h1>
 
 ## Skills
 
