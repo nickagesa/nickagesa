@@ -1,12 +1,8 @@
-# Hello, I'm Nick Agesa
+# Hi, I'm Nick Agesa!
 <a href="https://linkedin.com/in/nickson-adamson-93512b122"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@nickagesa"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
 
-I am a cybersecurity professional driven by a passion for understanding and safeguarding computer networks, I bring a versatile skill set spanning network design, system administration, cybersecurity operations, and hands-on malware analysis. 
-
-## Objective
-
-I aim to utilize my skills in network security, threat monitoring, and SOC automation to contribute effectively as a Tier 1 Analyst in a Security Operations Center (SOC).
+Cybersecurity nerd on a mission — hunting threats, breaking stuff (ethically), and making tech make sense for everyone. 
 
 ## Skills
 
