@@ -4,11 +4,12 @@
   <a href="https://github.com/nickagesa/nickagesa/blob/main/README.md" style="text-decoration: none; color: #1f77b4;">Threat Hunter</a> , 
   <a href="https://github.com/nickagesa/nickagesa/blob/main/README.md" style="text-decoration: none; color: #2ca02c;">Educator</a>
 </h2>
-🐍 Python Programming
+
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| 🐍 Python                                     | Python Programming
 | Network Engineering                           | <a href= "https://github.com/nickagesa/Network-Engineering-Lab/blob/main/README.md"> Network Engineering Lab </a>
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
