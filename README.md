@@ -9,15 +9,15 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python Programming                            | 🐍 Python Projects
-| Network Engineering                           | <a href= "https://github.com/nickagesa/Network-Engineering-Lab/blob/main/README.md"> 👨‍💻 Network Engineering Lab </a>
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
-| System Administrator                           | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
+| 🐍 Python Programming                         |  Python Projects
+| 👨‍💻 Network Engineering                        | <a href= "https://github.com/nickagesa/Network-Engineering-Lab/blob/main/README.md"> Network Engineering Lab </a>
+| 🧾 SIEM Implementation and Log Analysis          | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
+| 🔎 Network Traffic Monitoring and Attack Detection | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
+| 🛠️ Security Automation with Shuffle SOAR         | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| 🚨 Incident Response Planning and Execution      | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| 📝 Case Management with TheHive                  | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| ⚙️ Scripting and Automation for Threat Mitigation | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| 🔓 System Administrator                           | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
 
 ## Tools
 
@@ -40,12 +40,6 @@
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     
 </div>
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-
 
 ## Projects
 - <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Project</a>
