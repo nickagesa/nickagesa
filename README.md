@@ -5,8 +5,6 @@
   <a href="https://github.com/nickagesa/nickagesa/blob/main/README.md" style="text-decoration: none; color: #2ca02c;">Educator</a>
 </h2>
 
-## Skills
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | 🐍 Python Programming                         |  Python Projects
