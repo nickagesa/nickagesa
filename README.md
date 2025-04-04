@@ -9,8 +9,8 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| 🐍 Python                                     | Python Programming
-| Network Engineering                           | <a href= "https://github.com/nickagesa/Network-Engineering-Lab/blob/main/README.md"> Network Engineering Lab </a>
+| Python Programming                            | 🐍 Python Projects
+| Network Engineering                           | <a href= "https://github.com/nickagesa/Network-Engineering-Lab/blob/main/README.md"> 👨‍💻 Network Engineering Lab </a>
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
