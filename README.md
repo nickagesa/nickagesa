@@ -4,6 +4,7 @@
   <a href="https://your-link-here.com" style="text-decoration: none; color: #1f77b4;">Threat Hunter</a> · 
   <a href="https://your-link-here.com" style="text-decoration: none; color: #2ca02c;">Educator</a>
 </b>
+
 ## Skills
 
 | Skill                                         | Associated Project         |
