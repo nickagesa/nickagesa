@@ -8,7 +8,7 @@
 <table>
   <tr>
     <th>Skill</th>
-    <th>Associated Project</th>
+    <th>Associated Projects</th>
   </tr>
   
   <!-- Python Programming -->
