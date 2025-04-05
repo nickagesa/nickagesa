@@ -14,7 +14,7 @@
   <!-- Python Programming -->
   <tr>
     <td rowspan="4">🐍 <b>Python Programming</b></td>
-    <td>< a href="https://github.com/nickagesa/Python_Games>Games</a></td>
+    <td>< a href="https://github.com/nickagesa/Python_Games">Games</a></td>
   </tr>
   <tr>
     <td>Cybersecurity</td>
