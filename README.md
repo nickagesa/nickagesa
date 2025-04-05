@@ -14,16 +14,16 @@
   <!-- Python Programming -->
   <tr>
     <td rowspan="4">🐍 <b>Python Programming</b></td>
-    <td><a href="https://github.com/nickagesa/Python_Games">Games</a></td>
+    <td><a href="https://github.com/nickagesa/Python_Projects">Games</a></td>
   </tr>
   <tr>
-    <td>Cybersecurity</td>
+    <td><a href="https://github.com/nickagesa/Python_Projects">Cybersecurity</a></td>
   </tr>
   <tr>
-    <td>AI</td>
+    <td><a href="https://github.com/nickagesa/Python_Projects">AI</a></td>
   </tr>
   <tr>
-    <td>Automation</td>
+    <td><a href="https://github.com/nickagesa/Python_Projects">Automation</a></td>
   </tr>
 
   <!-- Network Engineering -->
