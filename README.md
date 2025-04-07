@@ -20,7 +20,7 @@
     <td><a href="https://github.com/nickagesa/Python_Projects">Cybersecurity</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nickagesa/Python_Projects">AI $ Machine Learning</a></td>
+    <td><a href="https://github.com/nickagesa/Python_Projects">AI & Machine Learning</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/nickagesa/Python_Projects">Automation</a></td>
