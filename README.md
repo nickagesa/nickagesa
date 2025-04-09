@@ -99,6 +99,5 @@
 
 
 ## Let's Connect
-- <a href="https://github.com/nickagesa/Active-Directory-Lab">Active Directory Project</a>
-- <a href="https://github.com/nickagesa/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project</a>
-- <a href= "https://github.com/nickagesa/Network-Engineering-Lab/blob/main/README.md"> Network Engineering Project </a>
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> "https://www.linkedin.com/in/nickson-adamson-93512b122"
+
