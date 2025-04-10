@@ -17,7 +17,7 @@
     <td><a href="https://github.com/nickagesa/Python_Projects/blob/main/README.md#cyber-security-">Cybersecurity</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nickagesa/Python_Projects/blob/main/README.md#games">Games</a></td>
+    <td><a href="https://github.com/nickagesa/Python_Projects/blob/main/README.md#games-">Games</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/nickagesa/Python_Projects">AI & Machine Learning</a></td>
