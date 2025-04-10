@@ -14,7 +14,7 @@
   <!-- Python Programming -->
   <tr>
     <td rowspan="4">🐍 <b>Python Programming</b></td>
-    <td><a href="https://github.com/nickagesa/Python_Projects/blob/main/README.md#cyber-security">Cybersecurity</a></td>
+    <td><a href="https://github.com/nickagesa/Python_Projects/blob/main/README.md#cyber-security-">Cybersecurity</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/nickagesa/Python_Projects/blob/main/README.md#games">Games</a></td>
@@ -23,7 +23,7 @@
     <td><a href="https://github.com/nickagesa/Python_Projects">AI & Machine Learning</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nickagesa/Python_Projects/blob/main/README.md#automation">Automation</a></td>
+    <td><a href="https://github.com/nickagesa/Python_Projects/blob/main/README.md#automation-">Automation</a></td>
   </tr>
 
   <!-- Network Engineering -->
